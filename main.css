@@ -1,0 +1,39 @@
+body{
+    background: url('pexels-leon-ardho-1552252.jpg');
+    height: auto;
+    width: auto;
+    color: aliceblue;
+}
+.left{
+    display: inline-block;
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top: 0px;
+    border: 2px rgb(238, 234, 232);
+}
+.mid{
+    display: block;
+    text-align: center;
+    top: 0%;
+    border: 2px rgb(230, 226, 224);
+}
+.navbar{
+    display: inline-block;
+}
+.navbar li{
+    display: inline-block;
+    font-size: 20px;
+}
+.navbar li a{
+    color: white;
+    text-decoration: none;
+    padding: 34px 23px;
+}
+.right{
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+    top: 0px;
+    border: 2px rgb(216, 214, 213);
+}
